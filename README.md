@@ -11,4 +11,3 @@
 <a href="https://www.linkedin.com/in/%F0%9F%8C%B1-julien-renault-630115219" target="blank"><img align="center" src="https://github.com/Toolback/Config/blob/main/Images/linked.svg" alt="" height="30" width="40" /></a>
 </p>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Toolback&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
