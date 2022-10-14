@@ -2,6 +2,7 @@
 <h3 align="center">I'm a passionate Blockchain Developer. Everyday is a learning day for me <(^.^)></h3>
 
 - 🌱 I spend most of my time learning about **Defi/Gamefi**
+- 💻 Student At **Ecole 42 Lausanne**
 - 📫 How to reach me **julien.rnlt@gmail.com**
 
   
