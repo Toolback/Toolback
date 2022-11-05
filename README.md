@@ -5,7 +5,7 @@
 - 💻 Student At **Ecole 42 Lausanne**
 - 📫 How to reach me **julien.rnlt@gmail.com**
 
-  [![jurenaul's 42 stats](https://badge42.vercel.app/api/v2/cla1ftpqt00160fl88antxzu5/stats?cursusId=21&coalitionId=166)](https://github.com/JaeSeoKim/badge42)
+[![jurenaul's 42 stats](https://badge42.vercel.app/api/v2/cla1ftpqt00160fl88antxzu5/stats?cursusId=21&coalitionId=192)](https://github.com/JaeSeoKim/badge42)
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toolback)](https://github.com/anuraghazra/github-readme-stats)
 
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toolback&show_icons=true&locale=en&layout=compact" alt="toolback" /></p>
