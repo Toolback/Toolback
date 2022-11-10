@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Julien Renault 👋</h1>
+<h1 align="center">Hi, I'm Julien 👋</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Blockchain+Developer.;Everyday+is+a+learning+day+!" alt="Typing SVG" /></a>
 
 - 🌱 I spend most of my time learning about **Defi/Gamefi**
