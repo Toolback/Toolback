@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Julien 👋</h1>
+<h1 align="center">Hi, I'm Julien Renault 👋</h1>
 <h3 align="center">Passionate Blockchain Developer. Everyday is a learning day !</h3>
 
 - 🌱 I spend most of my time learning about **Defi/Gamefi**
