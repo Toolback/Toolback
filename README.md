@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Julien Renault 👋</h1>
 <h3 align="center">Passionate Blockchain Developer. Everyday is a learning day !</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+Blockchain+Developer.;Everyday+is+a+learning+day+!;)](https://git.io/typing-svg)
+
 
 - 🌱 I spend most of my time learning about **Defi/Gamefi**
 - 💻 Student At **Ecole 42 Lausanne**
