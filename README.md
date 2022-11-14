@@ -8,8 +8,8 @@
 [![jurenaul's 42 stats](https://badge42.vercel.app/api/v2/cla1ftpqt00160fl88antxzu5/stats?cursusId=21&coalitionId=192)](https://github.com/JaeSeoKim/badge42)
 <table>
   <tr>
-    <td valign="top">  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=toolback&count_private=true&theme=tokyonight" /></td>
-    <td valign="top"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=toolback&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="toolback" /></td>
+    <td><img align="top" width="50%" src="https://github-readme-stats.vercel.app/api?username=toolback&count_private=true&theme=tokyonight" /></td>
+    <td><img align="top" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=toolback&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="toolback" /></td>
   </tr>
 </table>
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=toolback&count_private=true&theme=tokyonight" />
