@@ -10,7 +10,7 @@
   <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=toolback&count_private=true&theme=tokyonight" />
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=toolback&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="toolback" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=toolback&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="toolback" />
   
 
 
