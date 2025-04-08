@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Passionate+Blockchain+Developer.;Everyday+is+a+learning+day+!" alt="Typing SVG" /></a>
 
 - 🌱 I spend most of my time learning about **Defi/Gamefi**
-- 💻 Working on **Zenvest.app** / **TokenFabric.xyz** / **Heko Club** / **Eloria**
+- 💻 Building at **[CodHash](https://codhash.com/)**
 - 📫 How to reach me **julien.rnlt@gmail.com**
 
 [![jurenaul's 42 stats](https://badge42.vercel.app/api/v2/cla1ftpqt00160fl88antxzu5/stats?cursusId=21&coalitionId=192)](https://github.com/JaeSeoKim/badge42)
